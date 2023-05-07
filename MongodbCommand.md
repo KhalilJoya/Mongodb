@@ -128,8 +128,17 @@ db.student.find({},{email:1 ,mobileNo : 1})
 
 ### 4. students record ki name se sorting krni hai
 
+##### ascending order
+
 ```sql
 db.student.find({}).sort({name : 1})
+
+```
+
+#### descending order
+
+```sql
+db.student.find({}).sort({name : -1})
 ```
 
 ### 5. vo sare students ki list return kro jinka admission last 3 months me hua hai
