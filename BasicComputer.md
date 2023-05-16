@@ -29,6 +29,40 @@ ALU nirdeshon ko nishpaadit karane aur samagr sanganana prakriya ke bhaag ke roo
 
 kul milaakar, eelayoo seepeeyoo mein ek mahatvapoorn ghatak hai jo kampyootar sistam mein deta ko sansaadhit karane aur nirdeshon ko nishpaadit karane ke lie aavashyak ankaganiteey aur taarkik sanchaalan karata hai.
 
+### what is internet?
+
+intaranet aapas mein jude kampyootaron aur upakaranon ka ek vaishvik netavark hai jo deta aur soochanaon ke aadaan-pradaan ke lie teeseepee/aaeepee (traansamishan kantrol protokol/intaranet protokol) naamak ek maanakeekrt sanchaar protokol ka upayog karata hai. yah ek vishaal aur vikendreekrt netavark hai jo duniya bhar ke laakhon kampyootar, sarvar, rautar, svich aur any upakaranon ko jodata hai.
+
+- Information Access :
+
+intaranet vishayon kee ek vistrt shrrnkhala par jaanakaaree ka khajaana pradaan karata hai. upayogakarta onalain detaabes, shodh lekh, samaachaar, shaikshik sansaadhan, aur bahut kuchh ekses kar sakate hain. googlai jaise khoj injan intaranet par upalabdh saamagree kee vishaal maatra se jaanakaaree khojane aur punah praapt karane kee suvidha pradaan karate hain.
+
+- Communication :
+
+intaranet vibhinn bhaugolik sthaanon mein sthit upakaranon ke beech sanchaar aur deta hastaantaran ko saksham banaata hai. yah eemel, instent maisejing, voyas aur veediyo kol aur phail sheyaring jaise vibhinn sanchaar chainal pradaan karata hai
+
+### What is ISP(Internet Service Provider)?
+
+ek intaranet seva pradaata (aaeeesapee) ek kampanee ya sangathan hai jo vyaktiyon, vyavasaayon aur any sansthaon ko intaranet tak pahunch pradaan karata hai. aaeeesapee vibhinn sevaon aur kanektivitee vikalpon kee peshakash karate hain jo upayogakartaon ko apane upakaranon ko intaranet se jodane aur onalain sansaadhanon tak pahunchane kee anumati dete hain.
+
+- Internet Connectivity :
+
+ISP intaranet kanekshan sthaapit karane ke lie aavashyak buniyaadee dhaancha aur netavark kanekshan pradaan karate hain. ve daayal-ap, deeesel (dijital sabsakraibar lain), kebal, phaibar optik, vaayarales aur saitelait kanekshan sahit vibhinn prakaar ke kanektivitee vikalp pradaan karate hain.
+
+- Provision of IP Addresses :
+
+ISP apane graahakon ko aaeepee (intaranet protokol) pate pradaan karate hain. ek aaeepee pata ek adviteey pahachaanakarta hai jo upakaranon ko sanchaar karane aur intaranet se kanekt karane kee anumati deta hai. aaeepee ​​​​pate gatisheel ho sakate hain (pratyek baar divais kanekt hone par badalate hain) ya sthir (samay ke saath samaan rahate hain).
+
+isps vyaktiyon aur vyavasaayon ko intaranet tak pahunchane aur usaka upayog karane mein saksham banaane mein mahatvapoorn bhoomika nibhaate hain. ve upayogakartaon ko dijital duniya se jodane ke lie aavashyak buniyaadee dhaancha, kanektivitee aur sevaen pradaan karate hue antim upayogakartaon aur bade intaranet buniyaadee dhaanche ke beech madhyasth ke roop mein kaary karate hain
+
+- Data Transmission :
+
+ISP upayogakartaon aur intaranet ke beech deta ke prasaaran kee suvidha pradaan karate hain. ve sunishchit karate hain ki deta paiket kushalataapoorvak unake netavark par root kie jaate hain, jisase upayogakarta intaranet par jaanakaaree bhej aur praapt kar sakate hain.
+
+- Internet Services :
+
+ISP aksar atirikt sevaen pradaan karate hain jaise eemel khaate, veb hosting, domen panjeekaran, varchual praivet netavark (VPN), aur klaud storej. ye sevaen samagr intaranet anubhav ko badhaatee hain aur apane graahakon kee vishisht aavashyakataon ko poora karatee hain.
+
 ### What is architecture?
 
 aarkitekchar, kampyootar ke sandarbh mein, kampyootar sistam ya usake bheetar ek vishisht ghatak ke dijain aur sangathan ko sandarbhit karata hai. yah ek kampyooting sistam banaane vaale haardaveyar aur sophtaveyar ghatakon kee sanrachana, kaaryakshamata aur intarakanekshan ko shaamil karata hai
@@ -166,37 +200,3 @@ vyoo paisiv hai aur isamen bijanes lojik nahin hai. yah upayogakarta inaput aur 
 niyantrak modal aur drshy ke beech madhyasth ke roop mein kaary karata hai.
 yah upayogakarta se drshy ke maadhyam se inaput praapt karata hai aur ise modal par kie jaane vaale kaaryon mein anuvaadit karata hai.
 niyantrak upayogakarta inaput ya any baaharee ghatanaon ke aadhaar par modal ko apadet karata hai, aur yah modal mein parivartanon ko darshaane ke lie drshy ko bhee apadet kar sakata hai.
-
-### what is internet?
-
-intaranet aapas mein jude kampyootaron aur upakaranon ka ek vaishvik netavark hai jo deta aur soochanaon ke aadaan-pradaan ke lie teeseepee/aaeepee (traansamishan kantrol protokol/intaranet protokol) naamak ek maanakeekrt sanchaar protokol ka upayog karata hai. yah ek vishaal aur vikendreekrt netavark hai jo duniya bhar ke laakhon kampyootar, sarvar, rautar, svich aur any upakaranon ko jodata hai.
-
-- Information Access :
-
-intaranet vishayon kee ek vistrt shrrnkhala par jaanakaaree ka khajaana pradaan karata hai. upayogakarta onalain detaabes, shodh lekh, samaachaar, shaikshik sansaadhan, aur bahut kuchh ekses kar sakate hain. googlai jaise khoj injan intaranet par upalabdh saamagree kee vishaal maatra se jaanakaaree khojane aur punah praapt karane kee suvidha pradaan karate hain.
-
-- Communication :
-
-intaranet vibhinn bhaugolik sthaanon mein sthit upakaranon ke beech sanchaar aur deta hastaantaran ko saksham banaata hai. yah eemel, instent maisejing, voyas aur veediyo kol aur phail sheyaring jaise vibhinn sanchaar chainal pradaan karata hai
-
-### What is ISP(Internet Service Provider)?
-
-ek intaranet seva pradaata (aaeeesapee) ek kampanee ya sangathan hai jo vyaktiyon, vyavasaayon aur any sansthaon ko intaranet tak pahunch pradaan karata hai. aaeeesapee vibhinn sevaon aur kanektivitee vikalpon kee peshakash karate hain jo upayogakartaon ko apane upakaranon ko intaranet se jodane aur onalain sansaadhanon tak pahunchane kee anumati dete hain.
-
-- Internet Connectivity :
-
-ISP intaranet kanekshan sthaapit karane ke lie aavashyak buniyaadee dhaancha aur netavark kanekshan pradaan karate hain. ve daayal-ap, deeesel (dijital sabsakraibar lain), kebal, phaibar optik, vaayarales aur saitelait kanekshan sahit vibhinn prakaar ke kanektivitee vikalp pradaan karate hain.
-
-- Provision of IP Addresses :
-
-ISP apane graahakon ko aaeepee (intaranet protokol) pate pradaan karate hain. ek aaeepee pata ek adviteey pahachaanakarta hai jo upakaranon ko sanchaar karane aur intaranet se kanekt karane kee anumati deta hai. aaeepee ​​​​pate gatisheel ho sakate hain (pratyek baar divais kanekt hone par badalate hain) ya sthir (samay ke saath samaan rahate hain).
-
-isps vyaktiyon aur vyavasaayon ko intaranet tak pahunchane aur usaka upayog karane mein saksham banaane mein mahatvapoorn bhoomika nibhaate hain. ve upayogakartaon ko dijital duniya se jodane ke lie aavashyak buniyaadee dhaancha, kanektivitee aur sevaen pradaan karate hue antim upayogakartaon aur bade intaranet buniyaadee dhaanche ke beech madhyasth ke roop mein kaary karate hain
-
-- Data Transmission :
-
-ISP upayogakartaon aur intaranet ke beech deta ke prasaaran kee suvidha pradaan karate hain. ve sunishchit karate hain ki deta paiket kushalataapoorvak unake netavark par root kie jaate hain, jisase upayogakarta intaranet par jaanakaaree bhej aur praapt kar sakate hain.
-
-- Internet Services :
-
-ISP aksar atirikt sevaen pradaan karate hain jaise eemel khaate, veb hosting, domen panjeekaran, varchual praivet netavark (VPN), aur klaud storej. ye sevaen samagr intaranet anubhav ko badhaatee hain aur apane graahakon kee vishisht aavashyakataon ko poora karatee hain.
