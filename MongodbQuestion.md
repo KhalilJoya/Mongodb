@@ -131,7 +131,7 @@ db.Books.find({ categories: "Fiction" })
 ### 21. Write a query to find documents in the "books" collection where the title contains the word "The" in a case-insensitive manner.
 
 ```
-
+db.Books.find({ Title: { $regex: /The/i } })
 ```
 
 ### 22. Write a query to find documents in the "books" collection where the author's name starts with the letter "J".
@@ -186,31 +186,4 @@ db.Books.find({ Author: { $nin: ["Stephen King", "Agatha Christie"] } })
 
 ```
 
-```
-
-### 1. Create database wecodeacademy
-
-```
-use wecodeacademy;
-```
-
-### 2. create collection batches
-
-```
-db.createCollection("batches");
-```
-
-### 3. add 5 documents in this way
-
-```
-{"batchName": "Node.js","students": ["Khalil","SherMo","Aarif","Rafik","Mazzid"],"duration": 5,"fees": 5000,"marks": [30,40,50,60,70,80]};
-
-{"batchName": "JavaScript","students": ["Irfan Khan","Khalil","SherMo.","Taiyab","Aadil"],duration": 10,fees": 10000,marks": [50,60,70,80,30,90,99,95,75,45,68,87,59]};
-
-
-{"batchName": "Designing","students":["Sohil Khan","Sameer","Tahir Khan","Farman","Aadil"],"duration": 7,fees": 15000,"marks": [60,70,80,90,99,95,75,68,87,59]};
-
-{"batchName": "Node.js","students": ["Afjal","VAkeel"],"duration": 15,"fees": 12000,"marks": [80,30,90,99,95]};
-
-{"batchName": "Designing","students": ["Farman","Sohil"],"duration": 13,"fees": 18000,"marks": [60,70,80,90,99,95,75,68,87,59]};
 ```
